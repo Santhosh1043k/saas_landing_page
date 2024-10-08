@@ -13,7 +13,7 @@ const Faq = () => {
             <h3 className='h3 max-md:h-5 max-w-640max-lg:max-w-md mb-7 text-p4'>
                 Curiosity didn't kill the cat, it gave it answers.
             </h3>
-            <p className='body-1 max-lg:max-w-sm'>
+            <p className=' leading max-lg:max-w-sm'>
                 You've got questions, we got answers
             </p>
          </div>
