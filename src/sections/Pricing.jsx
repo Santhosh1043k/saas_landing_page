@@ -123,7 +123,7 @@ const Pricing = () => {
 
                 <div
                   className={clsx(
-                    "leading relative z-2 mb-10 w-full border-b-s2 pb-9 text-center text-p4",
+                    "body-1 relative z-2 mb-10 w-full border-b-s2 pb-9 text-center text-p4",
                     index === 1 && "border-b",
                   )}
                 >

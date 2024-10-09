@@ -14,7 +14,7 @@ const Download = () => {
                     <img src="/images/xora.svg" width={160} height={55} alt="xora" />
 
                 </div>
-                <p className='leading mb-10 max-w-md'>
+                <p className='body-1 mb-10 max-w-md'>
                     Try it now for free on iOS, Android , PC , Web - whatever your flavor, we've got you covered.
                 </p>
                 <ul className='flex flex-wrap items-center gap-6'>
